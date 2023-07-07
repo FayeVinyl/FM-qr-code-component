@@ -56,8 +56,8 @@ p {
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media only screen and (min-width: 100px) {
+@media only screen and (min-width: 400px) {
     .container {
-       box-shadow: 
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
     }
 }
